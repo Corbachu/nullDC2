@@ -1,3 +1,5 @@
+# nullDC2, a fork of nulldc to support SDL2, x64, and cross-compilation
+
 # nulldc
 nullDC, a sega dreamcast emulator for win86.
 
